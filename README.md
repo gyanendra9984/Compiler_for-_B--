@@ -34,4 +34,5 @@ bison -d BMM_Parser.y
 gcc lex.yy.c BMM_Parser.tab.c
 ./a.exe
 
-Note: The instructions assume a Windows environment. Adjust the commands accordingly for other operating systems.
+## Note:
+The instructions assume a Windows environment. Adjust the commands accordingly for other operating systems.
